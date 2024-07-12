@@ -13,21 +13,21 @@ html{
     scroll-snap-stop: normal;
 }
 #topsection{
-    background-image: url("box.png");
+    background-image: url("../imgs/box.png");
     background-color: #A31E29;
     height: 100vh;
     width: 100%;
     position: relative;
 }
 #aboutsection{
-    background-image: url("box2.png");
+    background-image: url("../imgs/box2.png");
     background-color: #1C3144;
     width: 100%;
     height: 100vh;
     position: relative;
 }
 #contactsection{
-    background-image: url("box4.png");
+    background-image: url("../imgs/box4.png");
     background-color: #442252;
     width: 100%;
     height: 100vh;
